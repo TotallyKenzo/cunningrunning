@@ -1,5 +1,5 @@
-calc.build/
+calc.build/*
 
-calc.dist/
+calc.dist/*
 
 calc.exe
