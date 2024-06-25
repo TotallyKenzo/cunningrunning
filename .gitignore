@@ -2,4 +2,4 @@ calc.build/
 
 calc.dist/
 
-*.exe
+/calc.exe
